@@ -33,15 +33,14 @@ button {
   border-radius: 5px;
   background-color: hsl(158, 36%, 37%);
   transition: scale 800ms;
+  color: white;
+  font-weight: 700;
 }
 
 button:hover {
   scale: 101%;
   background-color: hsl(158, 47%, 56%);
-}
-
-button p {
-  color: white;
+  
 }
 
 .preview {
